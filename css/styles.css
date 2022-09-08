@@ -1,0 +1,35 @@
+body {
+    width: 80vw;
+    border: 2px solid black;
+}
+
+
+p {
+    border: 2px solid red;
+    display: inline-block;
+    width: 200px;
+}
+
+.navLink {
+    border: 2px solid grey;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a[target]{
+    color: red;
+
+}
+
+#heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-decoration: underline;
+    font-size: 24px;
+    text-align: center;
+}
